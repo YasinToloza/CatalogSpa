@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "lMCTZOWzCvTvKDT1txiwzyPeVug2jmU+GoTD5hC/5qg=",
+  "Source": "CatalogSpa.API",
+  "BasePath": "_content/CatalogSpa.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
